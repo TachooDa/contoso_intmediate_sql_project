@@ -65,7 +65,7 @@ Analisa perilaku pelanggan (customer behaviour), retensi dan life time value pel
     - Analyzed last purchase patterns
     - Calculated customer-specific metrics
 
-**📈 Visualization **
+**📈 Visualization**
 
 ![-](images/3_churned_analysis.png)
 
